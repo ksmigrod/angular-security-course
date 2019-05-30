@@ -1,5 +1,3 @@
-
-
 import * as express from 'express';
 import {Application} from "express";
 import * as fs from 'fs';
